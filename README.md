@@ -1,1 +1,1 @@
-# coursera-prython-projrct
+# coursera-python-projrct
